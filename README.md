@@ -1,4 +1,5 @@
 # Temperature sensor with st7735 1.8inch LCD screen
+This project is focused on utilizing Raspberry Pi PICO using `c/c++ sdk` and st7735 screen.
 
 Useful links </br>
 * [rasberry pi pico cpp sdk](https://www.raspberrypi.com/documentation/pico-sdk/hardware.html)
